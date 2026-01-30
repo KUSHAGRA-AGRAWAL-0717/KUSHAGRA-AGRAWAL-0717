@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Job provider project**
 
-- 👨‍💻 All of my projects are available at [https://kushagraagrawalportfolio.netlify.app/](https://kushagraagrawalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kushagracoder.netlify.app/](https://kushagracoder.netlify.app/)
 
 - 📫 How to reach me **kushagraagrawal.9672@gmail.com**
 
