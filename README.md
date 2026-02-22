@@ -27,7 +27,7 @@ const kushagra = {
 - 👨‍💻 Check out my projects at **[kushagracoder.netlify.app](https://kushagracoder.netlify.app/)**
 - 📄 View my **[Resume](https://drive.google.com/file/d/1Fdp-hlyh2swVrfiZJ-nYch56Qjc8l8PN/view?usp=sharing)**
 - 💬 Ask me about **Full Stack Development, DSA, and Machine Learning**
-- 📧 Reach me at **kushagraagrawal.9672@gmail.com**
+- 📧 Reach me at **kushagraagrawal655@gmail.com**
 
 ---
 
