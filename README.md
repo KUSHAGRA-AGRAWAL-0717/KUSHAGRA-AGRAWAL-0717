@@ -24,7 +24,7 @@ const kushagra = {
 ```
 
 - 🔭 Currently building a **Job Provider Platform**
-- 👨‍💻 Check out my projects at **[kushagracoder.netlify.app](https://kushagracoder.netlify.app/)**
+- 👨‍💻 Check out my projects at **[coderkushagra.netlify.app](https://coderkushagra.netlify.app/)**
 - 📄 View my **[Resume](https://drive.google.com/file/d/1Fdp-hlyh2swVrfiZJ-nYch56Qjc8l8PN/view?usp=sharing)**
 - 💬 Ask me about **Full Stack Development, DSA, and Machine Learning**
 - 📧 Reach me at **kushagraagrawal655@gmail.com**
