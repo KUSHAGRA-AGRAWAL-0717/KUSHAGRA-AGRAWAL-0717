@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kushagraag0717?style=social)](https://twitter.com/kushagraag0717)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kushagraagrawal017)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://coderkushagra.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://kushagradev.netlify.app/)
 
 </div>
 
@@ -24,7 +24,7 @@ const kushagra = {
 ```
 
 - 🔭 Currently building a **Job Provider Platform**
-- 👨‍💻 Check out my projects at **[coderkushagra.netlify.app](https://coderkushagra.netlify.app/)**
+- 👨‍💻 Check out my projects at **[kushagradev.netlify.app](https://kushagradev.netlify.app/)**
 - 📄 View my **[Resume](https://drive.google.com/file/d/1Fdp-hlyh2swVrfiZJ-nYch56Qjc8l8PN/view?usp=sharing)**
 - 💬 Ask me about **Full Stack Development, DSA, and Machine Learning**
 - 📧 Reach me at **kushagraagrawal655@gmail.com**
