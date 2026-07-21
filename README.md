@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Kushagra Agrawal
+# 👋 Hey there,I'm Kushagra Agrawal
 
 ### 💻 Software Developer | 🚀 Problem Solver | 🌟 Tech Enthusiast
 
@@ -18,7 +18,7 @@
 const kushagra = {
     location: "India 🇮🇳",
     currentFocus: "Job Provider Project",
-    funFact: "I think I'm funny 😄",
+    funFact: "I think I'm funny 😄 and some cause of my problem is me itself",
     reachMe: "kushagraagrawal.9672@gmail.com"
 };
 ```
