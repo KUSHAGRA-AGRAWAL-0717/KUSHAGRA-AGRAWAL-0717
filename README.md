@@ -2,7 +2,7 @@
 
 # 👋 Hey there,I'm Kushagra Agrawal
 
-### 💻 Software Developer | 🚀 Problem Solver | 🌟 Tech Enthusiast
+### 💻 Software Developer | 🚀 Problem Solver | 🌟Tech Enthusiast
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kushagraag0717?style=social)](https://twitter.com/kushagraag0717)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kushagraagrawal017)
